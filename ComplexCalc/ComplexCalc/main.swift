@@ -53,3 +53,4 @@ let pd2 = ["x": -4, "y": 4]
 assert(calc.add(lhs: pd1, rhs: pd2) == ["x": 1, "y": 9])
 assert(calc.subtract(lhs: pd1, rhs: pd2) == ["x": 9, "y": 1])
 
+
